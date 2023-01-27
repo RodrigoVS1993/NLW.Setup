@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um app para ajudar a rastrear os habitos.
 
-Para acessar o app,[clique aqui](https://rodrigovs1993.github.io/NLW.Setup/).
+Para acessar o app, [clique aqui](https://rodrigovs1993.github.io/NLW.Setup/).
 
 ## 🔖 Layout
 
